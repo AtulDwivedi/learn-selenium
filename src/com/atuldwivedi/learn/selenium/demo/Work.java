@@ -1,4 +1,4 @@
-package com.atuldwivedi.seleniumbasics.helloworld;
+package com.atuldwivedi.learn.selenium.demo;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Capabilities;
@@ -6,8 +6,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.RemoteWebDriver;
 
-import com.atuldwivedi.seleniumbasics.utils.screenshot.ScreenShot;
-import com.atuldwivedi.seleniumbasics.wait.WaitForPageLoad;
+import com.atuldwivedi.learn.selenium.utils.screenshot.ScreenShot;
+import com.atuldwivedi.learn.selenium.wait.WaitForPageLoad;
 
 public class Work {
 	static WebDriver wd = null;

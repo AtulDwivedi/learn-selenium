@@ -1,4 +1,4 @@
-package com.atuldwivedi.seleniumbasics.scroll;
+package com.atuldwivedi.learn.selenium.scroll;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;

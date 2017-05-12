@@ -1,4 +1,4 @@
-package com.atuldwivedi.seleniumbasics.utils.screenshot;
+package com.atuldwivedi.learn.selenium.utils.screenshot;
 
 import java.io.File;
 import java.io.IOException;

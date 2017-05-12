@@ -1,4 +1,4 @@
-package com.atuldwivedi.seleniumbasics.wait;
+package com.atuldwivedi.learn.selenium.wait;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.NoSuchWindowException;
